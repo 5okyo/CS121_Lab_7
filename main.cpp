@@ -35,3 +35,4 @@ void testStudent(){
   std::cout << std::endl;
   std::cout << student->getLastFirst();
   delete student;
+}

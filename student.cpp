@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sstream>
-#include "Student.h"
+#include "student.h"
  
 Student::Student(){
 	firstName = "";
